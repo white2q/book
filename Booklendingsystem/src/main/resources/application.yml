@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: bookLending
+  # ?????
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/booklending?serverTimezone=Asia/Shanghai
+    username: root
+    password: '@Qwdsrs020216'
+
